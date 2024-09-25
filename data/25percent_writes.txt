@@ -1,0 +1,528 @@
+---Overall Stats for Client 11---
+Total time := 60 seconds
+Throughput (successfully committed requests) := 1.066667 requests per second
+Median Latency := 449.00 milliseconds per request
+99 pecentile latency := 25343.00 milliseconds per request
+Error Rate := 11 
+Total number of requests := 72
+Total number of responses := 64
+---Write Request Stats---
+Throughput (successfully committed write requests) := 0.200000 requests per second
+Median Latency for write requests := 16601.50 milliseconds per request
+99 pecentile latency for write requests := 25343.00 milliseconds per request
+Error Rate for write requests := 36 
+Total number of write requests sent := 19
+Total number of write responses received := 12
+---Read Request Stats---
+Throughput (successfully committed read requests) := 0.866667 requests per second
+Median Latency for read requests := 448.00 milliseconds per request
+99 pecentile latency for read requests := 458.00 milliseconds per request
+Error Rate for read requests := 1 
+Total number of read requests sent := 53
+Total number of read responses received := 52
+
+---Request Details---
+Id 11.17 {
+	Command 1rszdtVLqlcdlYHeI
+	RequestType write
+	Completed true
+	StartTime 1727195374462816753, EndTime 1727195390419272135 => Duration in Milliseconds 15956
+}
+
+Id 11.28 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195384232888966, EndTime 1727195384680974883 => Duration in Milliseconds 448
+}
+
+Id 11.68 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType read
+	Completed true
+	StartTime 1727195418935786468, EndTime 1727195419384418093 => Duration in Milliseconds 448
+}
+
+Id 11.8 {
+	Command 1GILRVeWuQVuxLGSc
+	RequestType write
+	Completed true
+	StartTime 1727195367236301722, EndTime 1727195368935836250 => Duration in Milliseconds 1702
+}
+
+Id 11.54 {
+	Command 0BcVxnGvkSwmbAgpu
+	RequestType read
+	Completed true
+	StartTime 1727195407806026421, EndTime 1727195408252916963 => Duration in Milliseconds 446
+}
+
+Id 11.42 {
+	Command 0xDbwdUMnXXsRNOcJ
+	RequestType read
+	Completed true
+	StartTime 1727195393352222428, EndTime 1727195393798824970 => Duration in Milliseconds 446
+}
+
+Id 11.1 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195362171150553, EndTime 1727195362618280595 => Duration in Milliseconds 447
+}
+
+Id 11.6 {
+	Command 1oSiQjmyZcMbMTtIj
+	RequestType write
+	Completed true
+	StartTime 1727195365727107929, EndTime 1727195368071708708 => Duration in Milliseconds 2347
+}
+
+Id 11.41 {
+	Command 0xDbwdUMnXXsRNOcJ
+	RequestType read
+	Completed true
+	StartTime 1727195392499789928, EndTime 1727195392949379470 => Duration in Milliseconds 449
+}
+
+Id 11.9 {
+	Command 1oSiQjmyZcMbMTtIj
+	RequestType read
+	Completed true
+	StartTime 1727195367953248750, EndTime 1727195368399807375 => Duration in Milliseconds 446
+}
+
+Id 11.30 {
+	Command 1CbmyvfXdwmwLZMAP
+	RequestType write
+	Completed true
+	StartTime 1727195384720710799, EndTime 1727195404046976502 => Duration in Milliseconds 19327
+}
+
+Id 11.15 {
+	Command 1XdxTUayBjuaLnLwK
+	RequestType read
+	Completed true
+	StartTime 1727195370914630293, EndTime 1727195371363606835 => Duration in Milliseconds 448
+}
+
+Id 11.26 {
+	Command 0RJrnCqgWYudqJNTG
+	RequestType write
+	Completed true
+	StartTime 1727195382980513632, EndTime 1727195392094372636 => Duration in Milliseconds 9113
+}
+
+Id 11.27 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195383394277715, EndTime 1727195383843861549 => Duration in Milliseconds 449
+}
+
+Id 11.32 {
+	Command 1rszdtVLqlcdlYHeI
+	RequestType read
+	Completed true
+	StartTime 1727195387685515134, EndTime 1727195388141121426 => Duration in Milliseconds 455
+}
+
+Id 11.53 {
+	Command 0BcVxnGvkSwmbAgpu
+	RequestType read
+	Completed true
+	StartTime 1727195407608302962, EndTime 1727195408053693004 => Duration in Milliseconds 445
+}
+
+Id 11.2 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195362382938303, EndTime 1727195362828521720 => Duration in Milliseconds 445
+}
+
+Id 11.7 {
+	Command 1oSiQjmyZcMbMTtIj
+	RequestType read
+	Completed true
+	StartTime 1727195366928968722, EndTime 1727195367376395097 => Duration in Milliseconds 447
+}
+
+Id 11.13 {
+	Command 1GILRVeWuQVuxLGSc
+	RequestType read
+	Completed true
+	StartTime 1727195368866719750, EndTime 1727195369315787584 => Duration in Milliseconds 449
+}
+
+Id 11.66 {
+	Command 0StVByQfVhUGOpPKX
+	RequestType write
+	Completed false
+	StartTime 1727195418317371176, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.70 {
+	Command 0vuexUhVwynGuKUzK
+	RequestType write
+	Completed false
+	StartTime 1727195420739447594, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.52 {
+	Command 1CbmyvfXdwmwLZMAP
+	RequestType read
+	Completed true
+	StartTime 1727195407390091004, EndTime 1727195407842759463 => Duration in Milliseconds 452
+}
+
+Id 11.60 {
+	Command 0BcVxnGvkSwmbAgpu
+	RequestType read
+	Completed true
+	StartTime 1727195412795762382, EndTime 1727195413247207049 => Duration in Milliseconds 451
+}
+
+Id 11.65 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType read
+	Completed true
+	StartTime 1727195418073493176, EndTime 1727195418525055551 => Duration in Milliseconds 451
+}
+
+Id 11.58 {
+	Command 0BcVxnGvkSwmbAgpu
+	RequestType read
+	Completed true
+	StartTime 1727195412007082131, EndTime 1727195412452898090 => Duration in Milliseconds 445
+}
+
+Id 11.59 {
+	Command 0ePijjUWQeQcWXarJ
+	RequestType write
+	Completed false
+	StartTime 1727195412509595548, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.71 {
+	Command 
+	RequestType read
+	Completed false
+	StartTime 1727195421514403386, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.5 {
+	Command 0UHIoOPkjRXwvdbrN
+	RequestType read
+	Completed true
+	StartTime 1727195365449290596, EndTime 1727195365898065346 => Duration in Milliseconds 448
+}
+
+Id 11.50 {
+	Command 0JnSEQkTKRIhelfeR
+	RequestType write
+	Completed false
+	StartTime 1727195403208384627, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.57 {
+	Command 0BcVxnGvkSwmbAgpu
+	RequestType read
+	Completed true
+	StartTime 1727195411203979714, EndTime 1727195411653849714 => Duration in Milliseconds 449
+}
+
+Id 11.12 {
+	Command 1XdxTUayBjuaLnLwK
+	RequestType write
+	Completed true
+	StartTime 1727195368105464541, EndTime 1727195371010271293 => Duration in Milliseconds 2904
+}
+
+Id 11.18 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195376072803878, EndTime 1727195376523968629 => Duration in Milliseconds 451
+}
+
+Id 11.19 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195376199217753, EndTime 1727195376646708879 => Duration in Milliseconds 447
+}
+
+Id 11.35 {
+	Command 1PglquHvcdaZGnbIm
+	RequestType write
+	Completed true
+	StartTime 1727195390556206260, EndTime 1727195413345427382 => Duration in Milliseconds 22790
+}
+
+Id 11.39 {
+	Command 0RJrnCqgWYudqJNTG
+	RequestType read
+	Completed true
+	StartTime 1727195391361680219, EndTime 1727195391806149303 => Duration in Milliseconds 444
+}
+
+Id 11.0 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195361849782511, EndTime 1727195362311319678 => Duration in Milliseconds 461
+}
+
+Id 11.4 {
+	Command 0UHIoOPkjRXwvdbrN
+	RequestType write
+	Completed true
+	StartTime 1727195364471539512, EndTime 1727195366562368055 => Duration in Milliseconds 2090
+}
+
+Id 11.11 {
+	Command 1GILRVeWuQVuxLGSc
+	RequestType read
+	Completed true
+	StartTime 1727195368076978166, EndTime 1727195368522242416 => Duration in Milliseconds 445
+}
+
+Id 11.33 {
+	Command 1rszdtVLqlcdlYHeI
+	RequestType read
+	Completed true
+	StartTime 1727195389975243635, EndTime 1727195390424740469 => Duration in Milliseconds 449
+}
+
+Id 11.34 {
+	Command 0BcVxnGvkSwmbAgpu
+	RequestType write
+	Completed true
+	StartTime 1727195390418862552, EndTime 1727195410280035089 => Duration in Milliseconds 19862
+}
+
+Id 11.46 {
+	Command 0xDbwdUMnXXsRNOcJ
+	RequestType read
+	Completed true
+	StartTime 1727195401619454168, EndTime 1727195402067055877 => Duration in Milliseconds 447
+}
+
+Id 11.69 {
+	Command 0LJzeNvAiVfetduCV
+	RequestType read
+	Completed true
+	StartTime 1727195420021481010, EndTime 1727195420469219302 => Duration in Milliseconds 447
+}
+
+Id 11.10 {
+	Command 1GILRVeWuQVuxLGSc
+	RequestType read
+	Completed true
+	StartTime 1727195368028506375, EndTime 1727195368475394000 => Duration in Milliseconds 446
+}
+
+Id 11.25 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195380215836630, EndTime 1727195380667221547 => Duration in Milliseconds 451
+}
+
+Id 11.29 {
+	Command 0xDbwdUMnXXsRNOcJ
+	RequestType write
+	Completed true
+	StartTime 1727195384599904299, EndTime 1727195401846624335 => Duration in Milliseconds 17247
+}
+
+Id 11.23 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195379052405255, EndTime 1727195379500675463 => Duration in Milliseconds 448
+}
+
+Id 11.38 {
+	Command 0RJrnCqgWYudqJNTG
+	RequestType read
+	Completed true
+	StartTime 1727195391325250011, EndTime 1727195391772940803 => Duration in Milliseconds 447
+}
+
+Id 11.63 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType read
+	Completed true
+	StartTime 1727195415075675174, EndTime 1727195415527879800 => Duration in Milliseconds 452
+}
+
+Id 11.56 {
+	Command 0vXyHWfoTaoslAnhK
+	RequestType write
+	Completed false
+	StartTime 1727195409872768214, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.62 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType read
+	Completed true
+	StartTime 1727195413688373590, EndTime 1727195414138098007 => Duration in Milliseconds 449
+}
+
+Id 11.14 {
+	Command 1GILRVeWuQVuxLGSc
+	RequestType read
+	Completed true
+	StartTime 1727195369583406334, EndTime 1727195370037957292 => Duration in Milliseconds 454
+}
+
+Id 11.45 {
+	Command 0LJzeNvAiVfetduCV
+	RequestType write
+	Completed true
+	StartTime 1727195401014391418, EndTime 1727195421570328219 => Duration in Milliseconds 20555
+}
+
+Id 11.47 {
+	Command 1LNoXxzWrediQWFBJ
+	RequestType write
+	Completed false
+	StartTime 1727195401640660335, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.55 {
+	Command 1HyUwOWqbXrECBffQ
+	RequestType write
+	Completed false
+	StartTime 1727195409440316172, EndTime -6795364578871345152 => Duration in Milliseconds -9223372036854
+}
+
+Id 11.61 {
+	Command 1PglquHvcdaZGnbIm
+	RequestType read
+	Completed true
+	StartTime 1727195413133261132, EndTime 1727195413580500007 => Duration in Milliseconds 447
+}
+
+Id 11.37 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType write
+	Completed true
+	StartTime 1727195391251543136, EndTime 1727195419146913593 => Duration in Milliseconds 27896
+}
+
+Id 11.40 {
+	Command 1rszdtVLqlcdlYHeI
+	RequestType read
+	Completed true
+	StartTime 1727195391655824303, EndTime 1727195392108882303 => Duration in Milliseconds 453
+}
+
+Id 11.49 {
+	Command 1CbmyvfXdwmwLZMAP
+	RequestType read
+	Completed true
+	StartTime 1727195402754063502, EndTime 1727195403205665877 => Duration in Milliseconds 451
+}
+
+Id 11.36 {
+	Command 1rszdtVLqlcdlYHeI
+	RequestType read
+	Completed true
+	StartTime 1727195391149467219, EndTime 1727195391598002136 => Duration in Milliseconds 448
+}
+
+Id 11.48 {
+	Command 1CbmyvfXdwmwLZMAP
+	RequestType read
+	Completed true
+	StartTime 1727195402620634668, EndTime 1727195403070289960 => Duration in Milliseconds 449
+}
+
+Id 11.64 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType read
+	Completed true
+	StartTime 1727195416876663467, EndTime 1727195417327876634 => Duration in Milliseconds 451
+}
+
+Id 11.3 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195363926149804, EndTime 1727195364378581929 => Duration in Milliseconds 452
+}
+
+Id 11.22 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195378581903546, EndTime 1727195379028580338 => Duration in Milliseconds 446
+}
+
+Id 11.24 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195379208094630, EndTime 1727195379661848588 => Duration in Milliseconds 453
+}
+
+Id 11.67 {
+	Command 0rdekdTSPJwecbPUt
+	RequestType read
+	Completed true
+	StartTime 1727195418914706551, EndTime 1727195419361599051 => Duration in Milliseconds 446
+}
+
+Id 11.31 {
+	Command 1rszdtVLqlcdlYHeI
+	RequestType read
+	Completed true
+	StartTime 1727195386876683050, EndTime 1727195387325409342 => Duration in Milliseconds 448
+}
+
+Id 11.43 {
+	Command 0xDbwdUMnXXsRNOcJ
+	RequestType read
+	Completed true
+	StartTime 1727195396149377638, EndTime 1727195396600927305 => Duration in Milliseconds 451
+}
+
+Id 11.44 {
+	Command 0xDbwdUMnXXsRNOcJ
+	RequestType read
+	Completed true
+	StartTime 1727195399261095667, EndTime 1727195399715498000 => Duration in Milliseconds 454
+}
+
+Id 11.20 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195377363518254, EndTime 1727195377813604004 => Duration in Milliseconds 450
+}
+
+Id 11.51 {
+	Command 1CbmyvfXdwmwLZMAP
+	RequestType read
+	Completed true
+	StartTime 1727195404111002627, EndTime 1727195404560062128 => Duration in Milliseconds 449
+}
+
+Id 11.16 {
+	Command 1XdxTUayBjuaLnLwK
+	RequestType read
+	Completed true
+	StartTime 1727195371282924709, EndTime 1727195371730778668 => Duration in Milliseconds 447
+}
+
+Id 11.21 {
+	Command 
+	RequestType read
+	Completed true
+	StartTime 1727195378165564671, EndTime 1727195378611197171 => Duration in Milliseconds 445
+}
+
